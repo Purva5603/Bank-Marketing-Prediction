@@ -56,7 +56,7 @@ The dataset contains customer demographic information, previous marketing intera
 
 ---
 
-## 📌 Key Insights
+##  Key Insights
 - Contact duration and previous campaign outcomes were among the most influential features.  
 - Targeted customer selection helped minimize wasted marketing efforts.  
 - XGBoost outperformed baseline models in terms of precision and recall.  
